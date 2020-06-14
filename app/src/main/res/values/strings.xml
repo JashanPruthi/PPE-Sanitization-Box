@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UVTesting</string>
+    <string name="mask_id">Mask_ID:</string>
+    <string name="time_remaining">Time Remaining :</string>
+    <string name="expiredText">Ready for the Isolation Chamber!!</string>
+    <string name="hrs">\" hrs \"</string>
+    <string name="mins">\" mins \"</string>
+    <string name="sec">\" sec\"</string>
+    <string name="swapMask">Take the mask out of the UV box and put it in the Isolation Chamber for another 72 hours</string>
+    <string name="days">\" days \"</string>
+    <string name="ready">The mask is now ready to use, don\'t use this procedure more than 10 times</string>
+</resources>
